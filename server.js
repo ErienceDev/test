@@ -37,7 +37,7 @@ app.get("/", async function (req, res) {
 });
 
 app.get("/buy", async function (req, res) {
-  res.send("Hello World");
+  res.send("Hello Bhavik");
 });
 
 app.listen(8080);
